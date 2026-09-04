@@ -3,7 +3,7 @@
 
 
   ##  Support my work
-![Bitcoin](https://img.shields.io/badge/Wallet%20Address%20(BTC%20Bitcoin)-F79621) **bc1qv75fqwxd6segh0343fcdrrpur65nm02dmdsdrk**
+##### ![Ethereum Network](https://img.shields.io/badge/Ethereum-5F7AE3?style=for-the-badge&logo=Ethereum&logoColor=FFFFFF) ETH Network Recieve Adress: **0x5061C1E0d90781AefeAa3FB20B4cd7e7320a2592**
 
 
 # 💻 Tech Stack:
